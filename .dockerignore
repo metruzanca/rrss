@@ -1,6 +1,12 @@
+# Rust
 **/target
 **/dist
 LICENSES
 LICENSE
 temp
 README.md
+*.sqlite
+
+# Fly.io
+fly.toml
+.git/
